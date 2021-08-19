@@ -1,0 +1,38 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+.post-container{
+    padding-top: 70px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.posts{
+    width: 60%;
+    background-color: #fffafa;
+    
+}
+.post{
+    margin: auto;
+    margin-bottom: 30px;
+    padding-bottom: 17px;
+    width: 90%;
+}
+
+.date{
+    color: #008080;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
